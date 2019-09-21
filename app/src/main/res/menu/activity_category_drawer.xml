@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Burn"
+            android:icon="@drawable/ic_add"
+            android:title="Burn and Plastic-Surgery" />
+        <item
+            android:id="@+id/nav_Cardiology"
+            android:icon="@drawable/ic_add"
+            android:title="Cardiologist" />
+        <item
+            android:id="@+id/nav_child"
+            android:icon="@drawable/ic_add"
+            android:title="Child medicine specialist" />
+        <item
+            android:id="@+id/nav_Neurology"
+            android:icon="@drawable/ic_add"
+            android:title="Neurologist" />
+        <item
+            android:id="@+id/nav_kidney"
+            android:icon="@drawable/ic_add"
+            android:title="Kidney and Liver Specialist" />
+        <item
+            android:id="@+id/nav_eye"
+            android:icon="@drawable/ic_add"
+            android:title="Eye,Nose,Skin and Dental" />
+
+        <item
+            android:id="@+id/nav_arthertic"
+            android:icon="@drawable/ic_add"
+            android:title="Arthritis" />
+    </group>
+
+
+
+
+</menu>

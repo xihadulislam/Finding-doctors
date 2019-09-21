@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="5"
+    android:background="#4ea3a1"
+    tools:context=".Doctors_information">
+
+
+    <ImageView
+        android:id="@+id/infoImageId"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.6"
+        android:src="@drawable/icon"
+
+        />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/indoctorsname"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:textColor="#fffefe"
+           android:paddingLeft="15sp"
+            android:textAlignment="gravity"
+            android:text="fggf"
+            android:background="#d42144"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            />
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3.2"
+            android:id="@+id/indoctorsinfo"
+            android:textSize="30sp"
+            android:textColor="#fffefe"
+            android:background="#2c736d"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:paddingLeft="10dp"
+            android:textIsSelectable="true"
+
+            />
+
+
+</LinearLayout>
+

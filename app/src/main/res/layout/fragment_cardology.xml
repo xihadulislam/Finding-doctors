@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CardologyFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ListView
+        android:dividerHeight="5dp"
+        android:listSelector="#e94b4b"
+        android:background="#1f615f"
+        android:id="@+id/list_cardilogoy"
+        android:divider="#375e64"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+
+
+</FrameLayout>

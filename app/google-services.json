@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "953804157369",
+    "firebase_url": "https://fir-democlass-a985c.firebaseio.com",
+    "project_id": "fir-democlass-a985c",
+    "storage_bucket": "fir-democlass-a985c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953804157369:android:78bdc2c9c82b18d2",
+        "android_client_info": {
+          "package_name": "com.example.xihad.findingdoctors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953804157369-lh0rjbt6enj25tc43lmls1ejcfhq7bdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xihad.findingdoctors",
+            "certificate_hash": "9f265ce9410a5e01ab280fd9357217426f108364"
+          }
+        },
+        {
+          "client_id": "953804157369-b33ur7t9r3ek98lssn9p52srjs1l41tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxynbXauTCVG-AtQK_vT5W0ZdzaMi19wU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953804157369-b33ur7t9r3ek98lssn9p52srjs1l41tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953804157369:android:25cdbc727fb3ccfc",
+        "android_client_info": {
+          "package_name": "com.example.xihad.firebasedemoclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953804157369-bffad09s41l13puvsoljl302r6pb73g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xihad.firebasedemoclass",
+            "certificate_hash": "9f265ce9410a5e01ab280fd9357217426f108364"
+          }
+        },
+        {
+          "client_id": "953804157369-b33ur7t9r3ek98lssn9p52srjs1l41tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxynbXauTCVG-AtQK_vT5W0ZdzaMi19wU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953804157369-b33ur7t9r3ek98lssn9p52srjs1l41tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

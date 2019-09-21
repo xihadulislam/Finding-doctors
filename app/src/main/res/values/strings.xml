@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Sylheti doctors</string>
+
+
+    <string-array name="doctors_name">
+
+
+        <item>Dr K M Muiaj</item>
+        <item>Dr A S M Misbah Uddin</item>
+        <item>Dr MD Ismail Patuary</item>
+        <item>Dr.Hasib Rahman</item>
+        <item>Dr.Alomgir Safauouth</item>
+        <item>Dr.Modushudon Saha</item>
+        <item>Dr.Aoliur Rohaman</item>
+        <item>Dr.MD Oliur Rahman</item>
+        <item>Dr.Sayed Shofi Ahmead</item>
+        <item>Profesor DR K M J Jaki</item>
+        <item>Dr.Abdul Manan</item>
+        <item>Dr.Tahmina Sattar</item>
+        <item>Dr.MD Monirul Islam</item>
+        <item>Dr.M Deilwar Hossain</item>
+        <item>Dr.Shekh A H M Misbah Ul Islam</item>
+        <item>Dr.Sudangsu Rongon Dey</item>
+        <item>Dr.MD Shabuddin</item>
+        <item>Dr. MD Bodrul Islam</item>
+        <item>Dr. MD Sah Jamal Hossein</item>
+        <item>Dr. Mrinal Kanti Das</item>
+        <item>Dr.Ajoy Kumar Dotto</item>
+        <item>Dr.Hirnomoy Das</item>
+        <item>Dr.MD Faruk Uddin</item>
+        <item>Dr.Dilip Kumar Sorkar</item>
+        <item>Dr.Hasan Akther</item>
+        <item>Dr.Pranoshis Saha</item>
+        <item>Dr.Mujibur Rahman</item>
+        <item>Dr.Ashraful Islam</item>
+        <item>Dr M A Malik</item>
+        <item>Dr M A High</item>
+        <item>Dr.Moshahid Takur</item>
+        <item>Dr.A.An.Am Yusuf</item>
+        <item>Dr.Khayer Ahmead Chowdhury</item>
+        <item>Profesor DR Sakhawoaht Hossain Chowdhory</item>
+        <item>Dr.Abdul Latif</item>
+        <item>Dr.Najmus Shakib</item>
+        <item>Dr.Uttom Kumar Saha</item>
+        <item>Dr.MD Rashidunobi Khan</item>
+        <item>Dr.Afjal Momin</item>
+        <item>Dr.D A Hasan Chowdhury</item>
+        <item>Dr.D A Rofiqul Salehhin</item>
+        <item>Dr.D A Sayekh Aziz Chowdhury</item>
+        <item>Dr.Shamim Anwaral Haque</item>
+        <item>Dr S S Al-Mhamud Sadi</item>
+        <item>Dr.Nurul Hooda Naeem</item>
+        <item>Dr.Gopal Shanker Dey</item>
+        <item>Dr.Samshul Haque Chowdhury</item>
+        <item>Dr.Susmhita Rai</item>
+        <item>Dr.Dependro Narayon Das</item>
+
+    </string-array>
+
+
+    <string name="DrAlomgirSafauouth">MBBS,MSC,Fcps\nLoc:Ibna Sina Hospital,Sobanighat\nFor Serial:01713301523\nTime:5.30pm-8.30pm(Offday:Friday)</string>
+    <string name="DrModushudonSaha">MBBS,Frps\nLoc:Popular Medical Center,Kajolsah\nFor Serial:01920134245\nTime:5pm-8pm(Offday:Friday</string>
+    <string name="DrAoliurRohaman">Dr.Aoliur Rohaman MBBS,MSC,Frps\nLoc:Ibna Sina Hospital,Sobanighat\nFor Serial:01713301523\nTime:5pm-8pm(Offday:Friday</string>
+    <string name="DrMDOliurRahman">MBBS,MD,FCPS,\nLOC:Popular Medical,Kajolsah\nFor Serial:01716333521\nTime:6pm-9pm(Offday:Friday)</string>
+    <string name="DrSayedShofiAhmead"> MBBS,MD,DCH,FCPS,\nLOC:Medinova Medical Service,Kajolsah\nFor Serial:01751673017\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="ProfesorDRKMJJaki">MBBS,MD,DCH,FCPS,\nLOC:Mediaid Medical,Kajolsah\nFor Serial:01751321548\nTime:6pm-9pm(Offday:Friday)</string>
+    <string name="DrGopalShankerDey">MBBS,BCS,FCPS\nLOC:ABC Digonostic center,Chouatta\nFor Serial:01711389252\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrSamshulHaqueChowdhury">MBBS,BCS,FCPS\nLOC:Ibna Sina Hospital,Sobahnighat\nFor Serial:01713301523\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrSusmhitaRai">MBBS,BCS,FCPS\nLOC:Medinova Medical Service,Kajolsha\nFor Serial:01754673017\nTime:5.30pm-8.30pm(Offday:Friday)</string>
+    <string name="DrDependroNarayonDas">MBBS,BCS,FCPS\nLOC:Populae Medical Center,Kajolsha\nFor Serial:01754673017\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrKMMuiaj">MBBS,BCS,DLO \n <b>Location:</b> Trust Medical Service,Modushaid \n <b>For Serial:</b>  017926677792 \n <b>Time:</b> 5pm-8pm  (Offday:Friday)</string>
+    <string name="DrASMMisbahUddin">MBBS,BCS,DLO\nLoc:59 Stadium Market\nFor Serial:017926677792\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrMDIsmailPatuary">MBBS,BCS,DLO\nLoc:59 Stadium Market\nFor Serial:017926677792\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrHasibRahman">MBBS,MSC\nLoc:Popular Medical Center,KajolSah\nFor Serial:01957096765\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrAbdulManan">MBBS,Fcps\nLoc:Medinova Medical service,Kajolsha\nFor Serial:01754673017\nTime:6pm-9pm(Offday:Friday)</string>
+    <string name="DrTahminaSattar">MBBS,MSC,Frps,Frcs\nLoc:Trust Medical ServiceModushaid\nFor Serial:01926677791\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrMDMonirulIslam">MBBS,BCS,FCPS\nLOC:Ibna Sina Hospital,Sobhanighat\nFor Serial:Time:5pm-8pm(Offday:Friday)</string>
+    <string name="DrMDeilwarHossain">MBBS,BCS,FCPS\nLOC:Ibna Sina Hospital,Sobhanighat\nFor Serial:Time:6pm-9pm(Offday:Friday)</string>
+    <string name="DrShekhAHMMisbahUlIslam">MBBS,BCS,FCPS\nLOC:Medi Aid Digonostic Center,Kajolsah\nFor Serial:0171127502\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrSudangsuRongonDey">MBBS,MSC\nLOC: Labaid Digonostic Center,KajolSah\nFor Serial: 01766662727\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrMDShabuddin">MBBS,Fcps,Frcs\nLoc:Trust Medial Service,Modushaid\nFor Serial:01715067019\nTime:5pm-8.30pm(Offday:Friday)</string>
+    <string name="DrMDBodrulIslam">MBBS,MSC,Frps\nLoc:Ibna Sina Hospital,Sobanighat\nFor Serial:0171331523\nTime:4pm-7pm(Offday:Friday)</string>
+    <string name="DrMDSahJamalHossein">MBBS,MSC\nLoc:Labaid Digonostic center\nFor Serial:01766662727\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrMrinalKantiDas">MBBS,MSC,Fcps\nLoc:Medinova Medical Service,Kajolsah\nFor Serial:01766878787\nTime:4.30pm-8pm(Offday:Friday)</string>
+    <string name="DrAjoyKumarDotto">MBBS,MSC\nLoc:Al Haramain Hospital,Shobanighat\nFor Serial:01931225555\nTime:4pm-6pm(Offday:Friday)</string>
+    <string name="DrHirnomoyDas">MBBS,MD,BSMMU\nLOC:Popular Medical,Kajolsah\nFor Serial:01716333521\nTime:6pm-10pm(Offday:Friday)</string>
+    <string name="DrMDFarukUddin">MBBS,MD,FCPS,BSMMU\nLOC:Popular Medical,Kajolsah\nFor Serial:01716333521\nTime:4pm-7.30pm(Offday:Friday)</string>
+    <string name="DrDilipKumarSorkar">MBBS,MD,FCPS,\nLOC:Popular Medical,Kajolsah\nFor Serial:01716333521\nTime:5pm-8pm(Offday:No Offday)</string>
+    <string name="DrMAMalik">MBBS,BCS,FCPS,MD\nLOC:Trust Medical Service,Kajolsah\nFor Serial:01926677791\nTime:4pm-7pm(Offday:Friday)</string>
+    <string name="DrMAHigh">MBBS,BCS,FCPS,MD\nLOC:Ibna Sina Hospital\nFor Serial:01713301523\nTime:4pm-7pm(Offday:Friday)</string>
+    <string name="DrHasanAkther">MBBS,MSC,Fcps\nLoc:Noorjhan Hospital,Dorgha Gate\nFor Serial:01842744244\nTime:3pm-6pm(Offday:Friday)</string>
+    <string name="DrPranoshisSaha">MBBS,Fcps,Frcs\nLoc:Popular Medial,Kajolsha\nFor Serial:01716333521\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrMujiburRahman">MBBS,Fcps,Frcs\nLoc:Popular Medial,Kajolsha\nFor Serial:01716333521\nTime:6pm-9pm(Offday:Friday)</string>
+    <string name="DrAshrafulIslam">MBBS,MS,MD\nLOC:Medinova Medical Service,Kajolsah\nFor Serial:01766878787\nTime:6pm-10pm(Offday:Friday)</string>
+    <string name="DrMoshahidTakur">MBBS,MSC\nLoc:Satdium Market(2nd floor)\nFor Serial:01788829500\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrAAnAmYusuf">MBBS,Fcps,Frcs\nLoc:Ibna Sina Hospital,Sobanighat\nFor Serial:0171331523\nTime:5pm-8.30pm(Offday:Friday)</string>
+    <string name="DrKhayerAhmeadChowdhury">MBBS,MSC,Frps\nLoc:Popular Medical Center,KajolSah\nFor Serial:01752158437\nTime:6pm-10pm(Offday:Friday)</string>
+    <string name="ProfesorDRSakhawoahtHossainChowdhory">MBBS,MD,DCH,FCPS,DO,\nLOC:LabAid Digonostic Center,Kajolsah\nFor Serial:017523557742\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrAbdulLatif">MBBS,BCS,FCPS,FRCS\nLOC:Al-Harmain Hospital,Sobhanighat\nFor Serial:01931225555\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrNajmusShakib"> MBBS,BCS,FCPS,FRCS\nLOC:Noorjhan Hospital,Amborkhana\nFor Serial:01931225555\nTime:4pm-7pm(Offday:Friday)</string>
+    <string name="DrUttomKumarSaha">MBBS,MSC\nLoc:Popular Medical Center,KajolSah\nFor Serial:01722912822\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrMDRashidunobiKhan">MBBS,Fcps,Frcs\nLoc:Popular Medical Center,KajolSah \nFor Serial:01722912822\nTime:5.30pm-8.30pm(Offday:Friday)</string>
+    <string name="DrAfjalMomin">MBBS,MSC,Frps\nLoc:Ibna Sina Hospital,Sobanighat\nFor Serial:0171331523</string>
+    <string name="DrDAHasanChowdhury">MBBS,BCS,FCPS,FRCS\nLOC:Lab Aid Digonostic Center,Kajolsha\nFor Serial:01766662727\nTime:5pm-8pm(Offday:Friday)</string>
+    <string name="DrDARofiqulSalehhin">MBBS,BCS,FCPS,FRCS\nLOC:Ibna Sina Hospital,Sobanighat\nFor Serial:01713301523\nTime:4pm-7pm(Offday:Friday)</string>
+    <string name="DrDASayekhAzizChowdhury">MBBS,BCS,FCPS,FRCS\nLOC:Popular Medical Center,Kajolsah\nFor Serial:01713301523\nTime:4pm-7pm(Offday:Friday)</string>
+    <string name="DrShamimAnwaralHaque">MBBS,BCS,FCPS,FRCS\nLOC:Popular Medical Center,Kajolsah\nFor Serial:01711340963\nTime:4.30pm-7.30pm(Offday:Friday)</string>
+    <string name="DrSSAlMhamudSadi">MBBS,BCS,FCPS,FRCS\nLOC:Ibna Sina Hospital\nFor Serial:01712201523\nTime:4.30pm-7.30pm(Offday:Friday)</string>
+    <string name="DrNurulHoodaNaeem">MBBS,BCS,FCPS,FRCS\nLOC:Niljent Center,Kajolsha\nFor Serial:01725365240\nTime:5pm-8pm(Offday:Friday)</string>
+
+
+    <string name="title_activity_category">Category</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="Arthertic">
+        <item>Dr K M Muiaj</item>
+        <item>Dr A S M Misbah Uddin</item>
+        <item>Dr MD Ismail Patuary</item>
+    </string-array>
+    <string-array name="Burn_Plastic">
+        <item>Dr.Hasib Rahman</item>
+        <item>Dr.Abdul Manan</item>
+        <item>Dr.Tahmina Sattar</item>
+    </string-array>
+
+    <string-array name="Cardiology">
+        <item>Dr.Sudangsu Rongon Dey</item>
+        <item>Dr.MD Shabuddin</item>
+        <item>Dr. MD Bodrul Islam</item>
+        <item>Dr. MD Sah Jamal Hossein</item>
+        <item>Dr. Mrinal Kanti Das</item>
+        <item>Dr.Ajoy Kumar Dotto</item>
+        <item>Dr.Hirnomoy Das</item>
+        <item>Dr.MD Faruk Uddin</item>
+        <item>Dr.Dilip Kumar Sorkar</item>
+    </string-array>
+
+    <string-array name="child">
+        <item>Dr M A Malik</item>
+        <item>Dr M A High</item>
+    </string-array>
+
+    <string-array name="Neurology_Pysychism">
+        <item>Dr.Uttom Kumar Saha</item>
+        <item>Dr.MD Rashidunobi Khan</item>
+        <item>Dr.Afjal Momin</item>
+        <item>Dr.Gopal Shanker Dey</item>
+        <item>Dr.Samshul Haque Chowdhury</item>
+        <item>Dr.Susmhita Rai</item>
+        <item>Dr.Dependro Narayon Das</item>
+
+    </string-array>
+
+    <string-array name="Eurology">
+        <item>Dr.Hasan Akther</item>
+        <item>Dr.Pranoshis Saha</item>
+        <item>Dr.Mujibur Rahman</item>
+        <item>Dr.Ashraful Islam</item>
+    </string-array>
+
+    <string-array name="Eye_Nose_Skin_dental">
+        <item>Dr.Moshahid Takur</item>
+        <item>Dr.A.An.Am Yusuf</item>
+        <item>Dr.Khayer Ahmead Chowdhury</item>
+        <item>Profesor DR Sakhawoaht Hossain Chowdhory</item>
+        <item>Dr.Shamim Anwaral Haque</item>
+        <item>Dr S S Al-Mhamud Sadi</item>
+        <item>Dr.Nurul Hooda Naeem</item>
+
+    </string-array>
+    <string-array name="kidney">
+        <item>Dr.Abdul Latif</item>
+        <item>Dr.Najmus Shakib</item>
+        <item>Dr.Alomgir Safauouth</item>
+        <item>Dr.Modushudon Saha</item>
+        <item>Dr.Aoliur Rohaman</item>
+        <item>Dr.MD Oliur Rahman</item>
+        <item>Dr.Sayed Shofi Ahmead</item>
+        <item>Profesor DR K M J Jaki</item>
+    </string-array>
+
+</resources>
+
